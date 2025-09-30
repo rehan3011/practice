@@ -10,8 +10,8 @@ class bank {
         this.balance=bal;
         this.pin=p;
     }
-    void deposit(int enteredPin, double amount){
-        if(enteredPin==this.pin){
+    void deposit(int pin, double amount){
+        if(pin==this.pin){
             balance=balance+amount;
             System.out.println("Amount of "+amount+" has been successfully deposited into your account!!");
         }
@@ -20,8 +20,8 @@ class bank {
 
     }
 
-    void withDraw(int enteredPin, double amount){
-        if(enteredPin==this.pin){
+    void withDraw(int pin, double amount){
+        if(pin==this.pin){
             balance=balance-amount;
             System.out.println("Amount of "+amount+" has been successfully withdrawed from your account!!");
         }
@@ -30,8 +30,8 @@ class bank {
 
     }
 
-    void showBalance(int enteredPin){
-        if(enteredPin==this.pin)
+    void showBalance(int pin){
+        if(pin==this.pin)
         System.out.println("balance in your account: "+balance);
         else
             System.out.println("password is incorrect!!");
