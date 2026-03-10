@@ -5,7 +5,8 @@ class GFG {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
         double d = sc.nextDouble();
-        int n= (int)d;
-        System.out.print(n);
+        int i =(int)d;
+        System.out.println(i);
+        // Typecast and print
     }
 }
