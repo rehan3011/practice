@@ -1,8 +1,11 @@
+// User function Template for Java
+
 class Solution {
-    static String revStr(String s) {
-       StringBuilder sb= new StringBuilder(s);
-       String rev= sb.reverse().toString();
-       return rev;
-        
+    public static String reverseString(String s) {
+        String str="";
+        for(int i=s.length()-1; i>=0; i--){
+            str+=s.charAt(i);
+        }
+        return str;
     }
 }
