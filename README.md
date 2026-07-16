@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rehan3011/practice/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/rehan3011/practice/tree/master/0011-container-with-most-water) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rehan3011/practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rehan3011/practice/tree/master/0011-container-with-most-water) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rehan3011/practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rehan3011/practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/rehan3011/practice/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
