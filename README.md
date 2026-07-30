@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rehan3011/practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/rehan3011/practice/tree/master/0005-longest-palindromic-substring) |
 | [0344-reverse-string](https://github.com/rehan3011/practice/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/rehan3011/practice/tree/master/0345-reverse-vowels-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/rehan3011/practice/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/rehan3011/practice/tree/master/0011-container-with-most-water) |
 | [0344-reverse-string](https://github.com/rehan3011/practice/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/rehan3011/practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rehan3011/practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
