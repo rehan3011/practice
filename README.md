@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rehan3011/practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0202-happy-number](https://github.com/rehan3011/practice/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rehan3011/practice/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/rehan3011/practice/tree/master/0011-container-with-most-water) |
+| [0202-happy-number](https://github.com/rehan3011/practice/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/rehan3011/practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rehan3011/practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rehan3011/practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/rehan3011/practice/tree/master/0202-happy-number) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rehan3011/practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
